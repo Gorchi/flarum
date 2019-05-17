@@ -1,1 +1,1 @@
-rb-flarum.github.io
+flarum.github.io
